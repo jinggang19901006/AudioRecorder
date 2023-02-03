@@ -1,0 +1,6 @@
+framework module AudioRecorder_iOS {
+  umbrella header "AudioRecorder_iOS.h"
+
+  export *
+  module * { export * }
+}
