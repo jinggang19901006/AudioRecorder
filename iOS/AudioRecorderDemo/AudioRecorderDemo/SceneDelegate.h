@@ -2,7 +2,7 @@
 //  SceneDelegate.h
 //  AudioRecorderDemo
 //
-//  Created by 冯文秀 on 2021/12/7.
+//  Created by tony.jing on 2021/12/7.
 //
 
 #import <UIKit/UIKit.h>
